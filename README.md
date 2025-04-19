@@ -1,12 +1,8 @@
 # 👨‍💻 Darwin Quito | Ingeniero en Software
-
 ¡Hola! 👋 Soy un Ingeniero en Software freelance apasionado por crear soluciones tecnológicas de alta calidad.
-
 ## 🚀 Sobre mí
 Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móviles escalables y de alto rendimiento. Me especializo en arquitecturas frontend/backend y disfruto enfrentando nuevos retos tecnológicos.
-
 ## 💻 Tecnologías y Herramientas
-
 ### Lenguajes de Programación
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -27,7 +23,6 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -35,7 +30,6 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -43,45 +37,33 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
 ### Herramientas de Diseño y Marketing
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Wondershare Filmora](https://img.shields.io/badge/-Wondershare_Filmora-0066FF?style=flat-square&logo=wondershare&logoColor=white)
 ![Facebook Ads](https://img.shields.io/badge/-Facebook_Ads-1877F2?style=flat-square&logo=facebook&logoColor=white)
-
 ### Herramientas de Desarrollo
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/-Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
-
 ## 📊 Estadísticas GitHub
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DarwinQuitoDev&show_icons=true&theme=radical)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinQuitoDev&layout=compact&theme=radical)
-
 ## 🌱 Actualmente estoy aprendiendo
 - Arquitecturas serverless
 - Inteligencia Artificial aplicada al desarrollo de software
 - DevOps y CI/CD avanzado
-
 ## 🔍 Buscando colaborar en
 - Proyectos de código abierto relacionados con desarrollo web/móvil
 - Soluciones innovadoras para pequeñas y medianas empresas
 - Aplicaciones con enfoque en experiencia de usuario
-
 ## 📫 Contáctame
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-quito-8b1a48340/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/darwin.quito/)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@darwin.quito)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057595729705)
-
 ## 💼 Portafolio
 ¿Interesado en mi trabajo? Visita [mi portafolio web](#) para ver algunos de mis proyectos destacados.
-
 ---
-
 ⭐️ De [DarwinQuitoDev](https://github.com/DarwinQuitoDev)
 <!---
 DarwinQuitoDev/DarwinQuitoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
