@@ -1,6 +1,4 @@
 # 👨‍💻 Darwin Quito | Ingeniero en Software
-¡Hola! 👋 Soy un Ingeniero en Software freelance apasionado por crear soluciones tecnológicas de alta calidad.
-## 🚀 Sobre mí
 Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móviles escalables y de alto rendimiento. Me especializo en arquitecturas frontend/backend y disfruto enfrentando nuevos retos tecnológicos.
 ## 💻 Tecnologías y Herramientas
 ### Lenguajes de Programación
@@ -11,7 +9,6 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 ### Frameworks y Librerías
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -45,13 +42,6 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 ### Herramientas de Desarrollo
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/-Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
-## 📊 Estadísticas GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DarwinQuitoDev&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinQuitoDev&layout=compact&theme=radical)
-## 🌱 Actualmente estoy aprendiendo
-- Arquitecturas serverless
-- Inteligencia Artificial aplicada al desarrollo de software
-- DevOps y CI/CD avanzado
 ## 🔍 Buscando colaborar en
 - Proyectos de código abierto relacionados con desarrollo web/móvil
 - Soluciones innovadoras para pequeñas y medianas empresas
