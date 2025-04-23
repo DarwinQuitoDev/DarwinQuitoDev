@@ -39,9 +39,6 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Wondershare Filmora](https://img.shields.io/badge/-Wondershare_Filmora-0066FF?style=flat-square&logo=wondershare&logoColor=white)
 ![Facebook Ads](https://img.shields.io/badge/-Facebook_Ads-1877F2?style=flat-square&logo=facebook&logoColor=white)
-### Herramientas de Desarrollo
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/-Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 ## 🔍 Buscando colaborar en
 - Proyectos de código abierto relacionados con desarrollo web/móvil
 - Soluciones innovadoras para pequeñas y medianas empresas
@@ -51,10 +48,6 @@ Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móvi
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/darwin.quito/)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@darwin.quito)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057595729705)
-## 💼 Portafolio
-¿Interesado en mi trabajo? Visita [mi portafolio web](#) para ver algunos de mis proyectos destacados.
----
-⭐️ De [DarwinQuitoDev](https://github.com/DarwinQuitoDev)
 <!---
 DarwinQuitoDev/DarwinQuitoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
