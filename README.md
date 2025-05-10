@@ -1,4 +1,4 @@
-# 👨‍💻 Darwin Quito | Ingeniero en Software ![Link](https://portafolio-zeta-sepia.vercel.app/)
+# 👨‍💻 Darwin Quito | Ingeniero en Software [Link](https://portafolio-zeta-sepia.vercel.app/)
 Trabajo como desarrollador freelance, enfocado en crear aplicaciones web y móviles escalables y de alto rendimiento. Me especializo en arquitecturas frontend/backend y disfruto enfrentando nuevos retos tecnológicos.
 ## 💻 Tecnologías y Herramientas
 ### Lenguajes de Programación
